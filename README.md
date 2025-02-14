@@ -7,8 +7,6 @@ This is a responsive landing page for **Study MBBS Abroad**, designed to provide
 - **Fully Responsive Design** (Tailwind CSS + Bootstrap)
 - **SEO Optimized** (Meta tags, fast loading)
 - **Lead Generation Form** (With validation)
-- **Google Analytics & Facebook Pixel Integration**
-- **Form Handling** (PHP for backend submission)
 
 ---
 
@@ -37,7 +35,7 @@ cd Study-MBBS-Abroad
 - **Live Site:** [Study MBBS Abroad](https://universityinsights-2hiaumzj1-rias-projects-dec74bde.vercel.app/)
 - **Deploy on Netlify/Vercel**
   - Push changes to GitHub
-  - Connect repository to Netlify/Vercel
+  - Connect repository to Vercel
   - Deploy with a single click!
 
 ---
